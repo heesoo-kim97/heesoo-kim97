@@ -15,14 +15,20 @@ I enjoy transforming raw data into meaningful insights that support better busin
 Currently focused on:
 - Business Analytics
 - SQL & Database Development
+- Python for Data Analysis
 - System Development
+- Software Development
 - Data Visualization
 
 Projects
 
+Explore my PROJECTS spanning data analytics, business intelligence, data visualization, and software development.
 
-
-Tools
+Tools & Technologies
+- Programming & Language: SQL, Python, JavaScript, HTML, CSS
+- Database: PostgresSQL, MySQL
+- Visualization: Tableau, PowerBI
 
 Connect with Me
-
+- LinkedIn
+- Email
