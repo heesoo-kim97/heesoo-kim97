@@ -1,6 +1,4 @@
-## Hi there 👋
-
-👐🏼 Introducing Myself
+## Introducing Myself 👋
 
 PIC
 
@@ -20,15 +18,15 @@ Currently focused on:
 - Software Development
 - Data Visualization
 
-Projects
+### Projects
 
-Explore my [PROJECTS](https://github.com/heesoo-kim97/portfolio-guide) spanning data analytics, business intelligence, data visualization, and software development.
+Explore my portfolio, take a look at my [PROJECTS](https://github.com/heesoo-kim97/portfolio-guide). 
 
-Tools & Technologies
+### Tools & Technologies
 - Programming & Language: SQL, Python, JavaScript, HTML, CSS
 - Database: PostgresSQL, MySQL
 - Visualization: Tableau, PowerBI
 
-Connect with Me
+### Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/heesoo-kim97/)
 - [Email](mailto:hkimdev1@gmail.com)
