@@ -22,7 +22,7 @@ Currently focused on:
 
 Projects
 
-Explore my PROJECTS spanning data analytics, business intelligence, data visualization, and software development.
+Explore my [PROJECTS](https://github.com/heesoo-kim97/portfolio-guide) spanning data analytics, business intelligence, data visualization, and software development.
 
 Tools & Technologies
 - Programming & Language: SQL, Python, JavaScript, HTML, CSS
@@ -30,5 +30,5 @@ Tools & Technologies
 - Visualization: Tableau, PowerBI
 
 Connect with Me
-- LinkedIn
-- Email
+- [LinkedIn](https://www.linkedin.com/in/heesoo-kim97/)
+- [Email](mailto:hkimdev1@gmail.com)
