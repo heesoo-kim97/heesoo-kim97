@@ -1,6 +1,8 @@
 ## Introducing Myself 👋
 
-PIC
+<p align="center">
+    <img src="images/hsk_banner.png" width="100%">
+</p>
 
 Hello, I'm Heesoo. 
 
