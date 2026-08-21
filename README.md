@@ -22,7 +22,7 @@ Currently focused on:
 
 ### Projects
 
-Explore my portfolio, take a look at my [PROJECTS](https://github.com/heesoo-kim97/portfolio-guide). 
+Explore my portfolio, take a look at my [PROJECTS](https://github.com/heesoo-kim97/portfolio-guide/blob/main/README.md). 
 
 ### Tools & Technologies
 - Programming & Language: SQL, Python, JavaScript, HTML, CSS
