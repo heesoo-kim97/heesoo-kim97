@@ -1,4 +1,4 @@
-## Introducing Myself 👋
+## Introducing Myself 
 
 <p align="center">
     <img src="images/hsk_banner.png" width="100%">
