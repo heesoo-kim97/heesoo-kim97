@@ -26,7 +26,7 @@ Explore my portfolio, take a look at my [PROJECTS](https://github.com/heesoo-kim
 
 ### Tools & Technologies
 - Programming & Language: SQL, Python, JavaScript, HTML, CSS
-- Database: PostgresSQL, MySQL
+- Database: MySQL, PostgreSQL
 - Visualization: Tableau, BIX5, Excel
 
 ### Connect with Me
