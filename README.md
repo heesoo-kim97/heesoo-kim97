@@ -14,10 +14,11 @@ I enjoy transforming raw data into meaningful insights that support better busin
 
 Currently focused on:
 - Business Analytics
+- Supply Chain & Logistics
+- Operations & Process Improvement
 - SQL & Database Development
 - Python for Data Analysis
-- System Development
-- Software Development
+- Technology & System Development
 - Data Visualization
 
 ### Projects
@@ -26,7 +27,7 @@ Explore my portfolio, take a look at my [PROJECTS](https://github.com/heesoo-kim
 
 ### Tools & Technologies
 - Programming & Language: SQL, Python, JavaScript, HTML, CSS
-- Database: MySQL, PostgreSQL
+- Database: MySQL
 - Visualization: Tableau, BIX5, Excel
 
 ### Connect with Me
